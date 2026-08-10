@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title> first page </title>
+</head>
+<body>
+<p style="color=red;"> my first page<p>
+<p style="color=blue;">my first header2</p>
+<p style="color=yellow;"> my first header 3</p>
+<p style="color=gold;"> my first header 4</p>
+<p style="color=tomato;"> my first header 5</p>
+<p style="color=green;"> my first header 6</p>
+<p style+"font-size=50px;"> this is my first paragraph  of my first html programming . i do it myself and i am proud to do so.<br><br> i will practice more so that i can create more  graceful webpage </p>
+</body>
+</html>
+
