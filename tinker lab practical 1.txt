@@ -7,7 +7,7 @@
 <!- this will tell the brwoser fro styling of colors in webpage ->
 <p style="background-color: red; width:fit-content;"> my first page<p>
 <p style="border:2px solid blue ; width:fit-content;padding: 10px;"><em>my first header2</em></p>
-<p style="color: yellow;"> my first header 3</p>
+<p style="color: yellow;allign=right"> my first header 3</p>
 <p style="color: gold;"> my first header 4</p>
 <p style="color: tomato;"> my first header 5</p>
 <p style="color: green;"> my first header 6</p>
