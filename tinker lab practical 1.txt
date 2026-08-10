@@ -4,13 +4,15 @@
 <title> first page </title>
 </head>
 <body>
-<p style="color=red;"> my first page<p>
-<p style="color=blue;">my first header2</p>
-<p style="color=yellow;"> my first header 3</p>
-<p style="color=gold;"> my first header 4</p>
-<p style="color=tomato;"> my first header 5</p>
-<p style="color=green;"> my first header 6</p>
-<p style+"font-size=50px;"> this is my first paragraph  of my first html programming . i do it myself and i am proud to do so.<br><br> i will practice more so that i can create more  graceful webpage </p>
+<!- this will tell the brwoser fro styling of colors in webpage ->
+<p style="background-color: red; width:fit-content;"> my first page<p>
+<p style="border:2px solid blue ; width:fit-content;padding: 10px;"><em>my first header2</em></p>
+<p style="color: yellow;"> my first header 3</p>
+<p style="color: gold;"> my first header 4</p>
+<p style="color: tomato;"> my first header 5</p>
+<p style="color: green;"> my first header 6</p>
+<p style="font-size: 50px;"> <strong>  this is my<q> my <mark><u>first paragraph </u></mark></q> </strong> of my first html programming  <em> . i do it myself and i am proud to do so.<br><br> i will practice more so that i can create more  graceful webpage</strong> </p>
 </body>
 </html>
 
+ 
