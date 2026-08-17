@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf 8.0">
+    <title>example of links ,images & navigations in html</title>
+</head>
+<body>
+   <h2> the link to sit, nagpur</h2>
+   <a href="https://sitnagpur.edu.in" target="_blank">vist sit </a>
+   <h2> image of sit nagpur </h2>
+   <img src="C:\Users\SIT.LAB8\Documents\hack o week uj\week 1\issues8.html"width="600"height="600">
+   <img src="C:\Users\SIT.LAB8\Documents\hack o week uj\week 1\download356.jpg"width="600" height="600">
+
+   <nav>
+       <a href="#sithome">sithome</a>
+       <a href="#contact">contact</a>
+   </nav>
+       <section-id ="sithome>overview of department
+ Dr. Sagarkumar Badhiye is an accomplished academic leader, researcher, and educator specializing in engineering education, curriculum design, and skill development. He currently serves as the HOD (CSE) & Associate Professor at Symbiosis Institute of Technology, Nagpur, where he has played a pivotal role in implementing the NEP 2020 framework, reformulating institutional vision and mission statements, and introducing cutting-edge courses in Artificial Intelligence, Data Science, Cyber Security, and emerging technologies.
+
+With over 14 years of experience in Computer Science and Engineering, he holds a Doctor of Philosophy (Ph. D.) from Sant Gadge Baba Amravati University, Amravati. His research interests span across Artificial Intelligence, Data Science, Cyber Security, Theoretical Foundations of Computer Science, Compiler Design, Natural Language Processing (NLP), and Time Series Analysis using Python and R.
+
+Dr. Badhiye is a prolific researcher with numerous scholarly publications, actively contributing to the academic community through expert talks, workshops, and certifications in Python, Data Science, and Machine Learning. His research has made significant advancements in Diabetic Retinopathy analysis using AI-driven medical diagnostics, showcasing his expertise in healthcare informatics and interdisciplinary applications of machine learning.
+
+Beyond research, Dr. Badhiye has been instrumental in fostering industry-academia collaborations, signing MoUs with leading organizations, and enhancing student employability through initiatives such as coding competitions, hands-on training modules, and real-time learning platforms. He has also played a key role in establishing the ACM Student Chapter and Google Developer Student Club (GDSC) at his institute, further promoting innovation and technical excellence among students.
+
+With his deep commitment to academic excellence, research innovation, and industry collaboration, Dr. Badhiye continues to make a meaningful impact in both academia and the tech industry. 
+</section-id>
+</body>
+</html>
