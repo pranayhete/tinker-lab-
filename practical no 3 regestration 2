@@ -21,7 +21,7 @@
       branch:
       <select>
         <br><br>
-        <option>.....select....</option
+        <option>.....select....</option>
         <option>computer science and engineering</option>
         <option>information technology</option>
         <option> electronics engineering</option>
@@ -48,6 +48,10 @@
        <option>section D</option>
        <option>section E</option> 
      </select><br><br>
+    
+   
+     ADDRESS:<br>
+            <textarea row="4" coloumn="36"></textarea row><br><br>
 
      <input type="submit"  value="register"> 
 </body>
