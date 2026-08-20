@@ -1,0 +1,36 @@
+<!doctype html>
+<head>
+    <meta charset ="UTF-8">
+    <title> Student registration form </title>
+</head>
+<body>
+<h2> student registration form <h2>
+<section>
+Name:
+<input type = <"text" name = "name"> <br><br>
+Email:
+<input type = <"email" name="email"><br><br>
+Gender:
+<input type="radio"name =<"gender">Male
+<input type="radio"name =<"gender">female<br><br>
+
+HOBBIES:
+
+<input type="checkbox"> reading 
+<input type="checkbox"> sports
+<input type="checkbox"> travelling<br><br>
+
+
+BRANCH:
+<select>
+     <option"">--select branch--</option>
+     <option> computer science </option>
+</select>
+<br><br>
+address:
+<texarea rows= "4" cols="30"></textarea>
+<br><br>
+<input type="submit"name"register>
+</section>
+</form>
+</html>
