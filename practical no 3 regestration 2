@@ -1,0 +1,55 @@
+<!doctype html>
+<head>
+     <title>student registration form</title>
+</head>
+<body>
+<h2>student registration form</h2>
+<form>
+     name:
+         <input type="text" name="Name"><br><br>
+     email:
+         <input type="email" name="email"><br><br>
+     gender:  
+         <input type="radio" name="gender"> male
+         <input type="radio" name="gender"> female<br><br>
+    hobbies:
+        <input type="checkbox"> reading
+        <input type="checkbox"> travelling
+        <input type="checkbox"> sports<br><br> 
+        
+<br><br>
+      branch:
+      <select>
+        <br><br>
+        <option>.....select....</option
+        <option>computer science and engineering</option>
+        <option>information technology</option>
+        <option> electronics engineering</option>
+     </select> 
+  
+      <select>
+       <option>.....select....</option>
+
+       <option>semester1</option>
+       <option>semester2</option>
+       <option>semester3</option>
+       <option>semester4</option>
+       <option>semester5</option>
+       <option>semester6</option>
+       <option>semester7</option>
+       <option>semester8</option>
+      </select>
+
+      <select>
+       <option>.....select....</option>
+       <option>section A</option>
+       <option>section B</option>
+       <option>section C</option>
+       <option>section D</option>
+       <option>section E</option> 
+     </select><br><br>
+
+     <input type="submit"  value="register"> 
+</body>
+</form>
+</html>
